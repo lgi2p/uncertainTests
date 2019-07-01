@@ -1,0 +1,9 @@
+This codes contain 3 R files:
+
+-myLib.R: library of R function for uncertain tests
+-exempleModelisationIncertaine.R: simple example for uncertain data modeling from data coming from repeated measurments
+-codesValidation.R: R script for uncertain tests validation on simulated (and noised) data
+
+For the 2 last scripts specify the correct path of your data (line 12).
+
+
